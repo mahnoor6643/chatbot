@@ -1,10 +1,11 @@
 streamlit
 python-dotenv
-langchain
-langchain-core
-langchain-community
-langchain-groq
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-groq>=0.1.5
 langchain-text-splitters
 langchain-huggingface
 huggingface-hub
 PyPDF2
+
